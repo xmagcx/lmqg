@@ -1,6 +1,6 @@
 
 ===
-## Papar Information
+## Project Information
 - Title:  `questions and answers`
 
 
@@ -55,18 +55,15 @@
 |—— .gitignore
 |—— Dockerfile
 |—— LICENCE
-|—— __pycache__
-|    |—— app.cpython-310.pyc
 |—— app.py
 |—— execute
-|—— note.py
 |—— readme.MD
 |—— requirements.txt
 ```
 
 ## References
-- [code-1](https://github.com/asahi417/lm-question-generation)
-- [code-2](https://huggingface.co/lmqg)
+- [source](https://github.com/asahi417/lm-question-generation)
+- [huggingface](https://huggingface.co/lmqg)
   
 ## License
 
